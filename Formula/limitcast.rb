@@ -1,8 +1,8 @@
 class Limitcast < Formula
   desc "Forecast, guard and stretch your Claude Code and Codex usage limits"
   homepage "https://limitcast.dev"
-  url "https://registry.npmjs.org/limitcast/-/limitcast-0.11.2.tgz"
-  sha256 "7b7f9a660d835132745524175c9a802bf199b1a343ba8b3b7bcf5e729f8ac08d"
+  url "https://registry.npmjs.org/limitcast/-/limitcast-0.11.3.tgz"
+  sha256 "672fdc94319c9c6df46a9c43081dfe5d8b1931320ae15880f897239c4b3937cd"
   license "Elastic-2.0"
 
   depends_on "node"
