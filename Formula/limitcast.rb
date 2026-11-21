@@ -1,8 +1,8 @@
 class Limitcast < Formula
   desc "Forecast, guard and stretch your Claude Code and Codex usage limits"
   homepage "https://limitcast.dev"
-  url "https://github.com/SamStull9007/limitcast/releases/download/v0.20.4/limitcast-0.20.4.tgz"
-  sha256 "7dc9cb6dd7da61411920840aebf411342288b667e4ca8465549dcccafd8afa93"
+  url "https://github.com/SamStull9007/limitcast/releases/download/v0.20.5/limitcast-0.20.5.tgz"
+  sha256 "1885857e635aac669ced3596cfe3c6ef66a70a39b16cab37c615173a0c080b0f"
   license "MIT"
 
   depends_on "node"
